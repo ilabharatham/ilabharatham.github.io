@@ -1,5 +1,5 @@
 ---
 layout: post-index
-title: My Rumblings
-excerpt: "My Thoughs and Some work "
+title: Events By Ilabharatham
+excerpt: "If You Light A Lamp For Somebody It Will Also Brighten Your Path"
 ---
