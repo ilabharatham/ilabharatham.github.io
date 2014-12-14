@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About Us
 tags: 
   - about
   - Jekyll
@@ -15,16 +15,16 @@ image:
 published: true
 ---
 
-I’m Vishnu, a 21st century hillbilly from the misty hills of Kodai. A Programmer, Photographer, Gamer, NGO-activist and most important of all I'm a Human Being! even though Most of my Friends Will Deny the Fact that I'm one.
+### Introduction
 
-##Programmer
+ILA BHARATHAM was born for making the nation a better place to live in, by extending our support to the needy from different horizons. Our emphasis is to assist the needs of the children in a right way, helping them to flourish in their talents. We value the operational freedom which stems from being a non-profitable trust which is independent of any religious or political affiliation and which does not discriminate on the basis of race, gender, ethnicity, age, religion or politics.
 
-The first Script that I wrote was to copy the contents of a Folder and paste it in a shared Folder. I started programming with Python Learned some webframeworks on it and that's when My life as a programmer started and i've been a learner ever since . learning php, perl, java, clojure and now towards scala.
+### Mission
 
-##Photographer
+To unite the younger generation for a noble cause and to increase the awareness among people, encourage them to provide a helping hand and the imbalance in todays rapidly changing world needs to be put back into equilibrium.
 
-From my childHood I've always wanted to capture the moments and places I've been to share it with others photography has always been a passion. Never took a class on it and never will i just love taking pictures.
+### Vision
 
-##Once a Gamer always a Gamer
+Ilabharatam was born not just out of curiosity but out off concern to help the under priviledged people in the society.Its emphasis is to ensure that every child gets a proper life with good benefits. It strives for the welfare of the differently abled children and nurtures them in all possible ways so as to make them independent.
 
-I just Love playing PC Games anything and everything that would run in my PC from RoadRash to FarCry-4. 
+

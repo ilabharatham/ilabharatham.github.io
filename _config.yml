@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Thoughts
+title:            Ilabharatham
 locale:           en_US
-url:              http://vishnu667.github.io
-#url: http://127.0.0.1:4000
+#url:              http://ilabharatham.github.io
+url: http://127.0.0.1:4000
 
 
 # Jekyll configuration
@@ -27,13 +27,11 @@ kramdown:
 
 # Site owner
 owner:
-  name: Vishnu Prasad
+  name: Ilabharatham
   avatar: my-self.jpg
-  bio: "Just another boring time Travelling programmer from the streets of Gotham"
-  email: vishnu667@gmail.com 
-  disqus-shortname: #vishnu667
-  twitter: vishnu_cygen
-  facebook: vishnu.cygen
+  bio: "Helping Hands Are Holier Than Praying Minds"
+  email: vishnu667@gmail.com
+  facebook: ilabharatham
   google:
     plus: vishnu667
     analytics: 
@@ -41,18 +39,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: vishnu667
-  stackoverflow: http://stackoverflow.com/users/123456/vishnu667
-  linkedin: vishnu667
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
+  github: ilabharatham
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
