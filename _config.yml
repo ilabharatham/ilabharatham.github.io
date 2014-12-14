@@ -1,0 +1,58 @@
+# Site wide configuration
+
+title:            Thoughts
+locale:           en_US
+url:              http://vishnu667.github.io
+#url: http://127.0.0.1:4000
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name: Vishnu Prasad
+  avatar: my-self.jpg
+  bio: "Just another boring time Travelling programmer from the streets of Gotham"
+  email: vishnu667@gmail.com 
+  disqus-shortname: #vishnu667
+  twitter: vishnu_cygen
+  facebook: vishnu.cygen
+  google:
+    plus: vishnu667
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: vishnu667
+  stackoverflow: http://stackoverflow.com/users/123456/vishnu667
+  linkedin: vishnu667
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
